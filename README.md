@@ -111,18 +111,4 @@ Before installing and running the Rentify application, make sure you have the fo
 
 4. Open a web browser and visit `http://localhost:3000` to access the Rentify application.
 
-## Contributing
 
-We welcome contributions to enhance the Rentify application. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your modifications and commit changes.
-4. Push your changes to the forked repository.
-5. Submit a pull request.
-
-## License
-
-Rentify is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Please note that this project is for educational purposes and should not be deployed in a production environment without proper security considerations.
